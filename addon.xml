@@ -111,9 +111,9 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">M80 Radio</summary>
-    <description>Streams de rádio da M80 Radio, e rádios online temáticas.
-	Este addon não é oficial da rádio M80, sendo feito por fãs
-	e cujo conteúdo foi encontrado livremente disponível na internet.</description>
+    <description>Streams de rÃ¡dio da M80 Radio, e rÃ¡dios online temÃ¡ticas.
+	Este addon nÃ£o Ã© oficial da rÃ¡dio M80, sendo feito por fÃ£s
+	e cujo conteÃºdo foi encontrado livremente disponÃ­vel na internet.</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -144,8 +144,8 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="pt_br">Vikings Update</summary>
     <description lang="pt_br">Bem-vindo e obrigado por fazer o download do nosso assistente.
-[CR]O Assistente Vikings Wizard package permite que você atualize somente os conteudos essenciais das Build Vikings, sem ter que efetuar nova instalacao
-[CR]Executar manutenção, Limpar cache, Limpar pacotes, manter seus dados do Trakt e Real Debrid e muito mais.</description>
+[CR]O Assistente Vikings Wizard package permite que vocÃª atualize somente os conteudos essenciais das Build Vikings, sem ter que efetuar nova instalacao
+[CR]Executar manutenÃ§Ã£o, Limpar cache, Limpar pacotes, manter seus dados do Trakt e Real Debrid e muito mais.</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -347,7 +347,7 @@ Channels and Playlists organized by categories. Source: Youtube Website.
 		<summary lang="en">Videos of "Anime on Demand"</summary>
 		<summary lang="de">Videos von "Anime on Demand"</summary>
 		<description lang="en">The official and legal platform for German animes with Dub and Sub! Cheap subscription with the best video quality.[CR]An Account is required !!![CR]Selected and compiled by Anime on Demand (https://www.anime-on-demand.de/).</description>
-		<description lang="de">Die offizielle und legale Plattform für deutsche Animes mit Dub und Sub! Günstig im Abo mit bester Videoqualität.[CR]Ein Account wird benötigt !!![CR]Ausgewählt und zusammengestellt von Anime on Demand (https://www.anime-on-demand.de/).</description>
+		<description lang="de">Die offizielle und legale Plattform fÃ¼r deutsche Animes mit Dub und Sub! GÃ¼nstig im Abo mit bester VideoqualitÃ¤t.[CR]Ein Account wird benÃ¶tigt !!![CR]AusgewÃ¤hlt und zusammengestellt von Anime on Demand (https://www.anime-on-demand.de/).</description>
 		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
 		<disclaimer lang="de">Die von diesem Addon dargestellten Inhalte werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Anbietern des Inhalts.</disclaimer>
 		<language>de</language>
@@ -362,10 +362,10 @@ Channels and Playlists organized by categories. Source: Youtube Website.
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>[B][COLOR orangered]Version 0.6.5  (22.09.2018)[/COLOR][/B] by realvito[CR]
-- fixed: Titel-Bilder werden nicht angezeigt (Thx an @Nerto aus dem kodinerds-forum für die Vorlage)
-- fixed: Einige Youtube-Trailer können nicht abgespielt werden
-- optimized: Textinfobox in der Rubrik: News - Größe, Text, Übersicht angepasst
-- optimized: Script und Übersetzung überarbeitet
+- fixed: Titel-Bilder werden nicht angezeigt (Thx an @Nerto aus dem kodinerds-forum fÃ¼r die Vorlage)
+- fixed: Einige Youtube-Trailer kÃ¶nnen nicht abgespielt werden
+- optimized: Textinfobox in der Rubrik: News - GrÃ¶ÃŸe, Text, Ãœbersicht angepasst
+- optimized: Script und Ãœbersetzung Ã¼berarbeitet
 		</news>
 	</extension>
 </addon>
@@ -393,8 +393,8 @@ Channels and Playlists organized by categories. Source: Youtube Website.
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLOR aqua]Canais IPTV Premium, sem antenas pela internet.[/COLOR]</summary>
-        <description lang="en">[COLOR blue]Atto Canais IPTV[COLOR aqua] agrega e organiza os links externos de outras fontes de IPTV. De modo que o usuário pode encontrar tudo o que você está procurando em um só lugar. Mas não somos responsáveis pelo conteúdo apresentado.[/COLOR]</description>
-        <disclaimer lang="en">[COLOR aqua]O autor não hospeda qualquer conteúdo exibido por este addon. Atto.TV não tem qualquer afiliação com o provedor de conteúdo.[/COLOR]</disclaimer>
+        <description lang="en">[COLOR blue]Atto Canais IPTV[COLOR aqua] agrega e organiza os links externos de outras fontes de IPTV. De modo que o usuÃ¡rio pode encontrar tudo o que vocÃª estÃ¡ procurando em um sÃ³ lugar. Mas nÃ£o somos responsÃ¡veis pelo conteÃºdo apresentado.[/COLOR]</description>
+        <disclaimer lang="en">[COLOR aqua]O autor nÃ£o hospeda qualquer conteÃºdo exibido por este addon. Atto.TV nÃ£o tem qualquer afiliaÃ§Ã£o com o provedor de conteÃºdo.[/COLOR]</disclaimer>
         <website>https://atto.tv/</website>
         <forum>https://atto.tv/forum</forum>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3.</license>
@@ -427,9 +427,9 @@ Channels and Playlists organized by categories. Source: Youtube Website.
         <provides>video</provides>
       </extension>
       <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR aqua]Filmes[COLOR gold]HD[/COLOR], [COLOR gold]SD[/COLOR], [COLOR gold]Novelas[/COLOR], [COLOR gold]Animes[/COLOR], [COLOR gold]Documentarios[/COLOR], [COLOR gold]Desenhos[/COLOR], [COLOR gold]Etc[/COLOR], [COLOR gold]Dublados[/COLOR] e [COLOR gold]Legendados[/COLOR]. A melhor recipiente de filmes!, aqui você encontra tudo[/COLOR]</summary>
-        <description lang="en">[COLOR blue][B]Atto.TV[/B][COLOR aqua], Oferece Filmes [COLOR gold]HD[/COLOR], [COLOR gold]720P[/COLOR], [COLOR gold]SD[/COLOR], [COLOR gold]Novelas[/COLOR], [COLOR gold]Animes[/COLOR], [COLOR gold]Documentarios[/COLOR], [COLOR gold]Desenhos[/COLOR], [COLOR gold]Etc[/COLOR], [COLOR gold]Dublados[/COLOR] e [COLOR gold]Legendados[/COLOR], pela internet, não precisa antena. Qualidade de imagen TOP com [COLOR gold]Doulby Vision[/COLOR]. Tecnologia "hassle free" da Atto, o melhor conteúdo Media Center.[/COLOR]</description>
-        <disclaimer lang="en">[COLOR aqua]O autor não hospeda qualquer conteúdo exibido por este complemento.[COLOR blue][B] Atto.TV [/B][/COLOR]tem nenhuma afiliação com o provedor de conteúdo.[COLOR blue][B] Atto.TV [/B][/COLOR]somente é responsável por coletar os melhores filmes da Internet, categorização e otimizá-los, de modo a que esta ao alcance de seus clientes. tão fácil e descomplicada.[/COLOR]</disclaimer>
+        <summary lang="en">[COLOR aqua]Filmes[COLOR gold]HD[/COLOR], [COLOR gold]SD[/COLOR], [COLOR gold]Novelas[/COLOR], [COLOR gold]Animes[/COLOR], [COLOR gold]Documentarios[/COLOR], [COLOR gold]Desenhos[/COLOR], [COLOR gold]Etc[/COLOR], [COLOR gold]Dublados[/COLOR] e [COLOR gold]Legendados[/COLOR]. A melhor recipiente de filmes!, aqui vocÃª encontra tudo[/COLOR]</summary>
+        <description lang="en">[COLOR blue][B]Atto.TV[/B][COLOR aqua], Oferece Filmes [COLOR gold]HD[/COLOR], [COLOR gold]720P[/COLOR], [COLOR gold]SD[/COLOR], [COLOR gold]Novelas[/COLOR], [COLOR gold]Animes[/COLOR], [COLOR gold]Documentarios[/COLOR], [COLOR gold]Desenhos[/COLOR], [COLOR gold]Etc[/COLOR], [COLOR gold]Dublados[/COLOR] e [COLOR gold]Legendados[/COLOR], pela internet, nÃ£o precisa antena. Qualidade de imagen TOP com [COLOR gold]Doulby Vision[/COLOR]. Tecnologia "hassle free" da Atto, o melhor conteÃºdo Media Center.[/COLOR]</description>
+        <disclaimer lang="en">[COLOR aqua]O autor nÃ£o hospeda qualquer conteÃºdo exibido por este complemento.[COLOR blue][B] Atto.TV [/B][/COLOR]tem nenhuma afiliaÃ§Ã£o com o provedor de conteÃºdo.[COLOR blue][B] Atto.TV [/B][/COLOR]somente Ã© responsÃ¡vel por coletar os melhores filmes da Internet, categorizaÃ§Ã£o e otimizÃ¡-los, de modo a que esta ao alcance de seus clientes. tÃ£o fÃ¡cil e descomplicada.[/COLOR]</disclaimer>
         <website>http://atto.tv/</website>
         <forum>https://atto.tv/antiforum/</forum>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3.</license>
@@ -459,10 +459,10 @@ Channels and Playlists organized by categories. Source: Youtube Website.
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR aqua]A lista mais completa da série de TV em um só lugar.[/COLOR]</summary>
-        <description lang="en">[COLOR blue]Atto.TV[COLOR aqua], Oferece uma das listas mais completas de série. Atualmente ele contém mais de 100 séries, carregado com todas as temporadas, dubladas e legendadas, com uma qualidade de vídeo de 1080p - 720p[/COLOR]</description>
-        <disclaimer lang="en">[COLOR aqua]O autor não hospedar ou distribuir qualquer conteúdo exibido por este complemento.[COLOR blue][B] Atto.TV [/B][/COLOR]tem nenhuma afiliação com o provedor de conteúdo.[COLOR blue][B] Atto.TV [/B][/COLOR]somente é responsável por coletar
-            os melhores series da Internet, categorização e otimizá-los, de modo a que esta ao alcance de seus clientes. tão fácil e descomplicada.[/COLOR]</disclaimer>
+        <summary lang="en">[COLOR aqua]A lista mais completa da sÃ©rie de TV em um sÃ³ lugar.[/COLOR]</summary>
+        <description lang="en">[COLOR blue]Atto.TV[COLOR aqua], Oferece uma das listas mais completas de sÃ©rie. Atualmente ele contÃ©m mais de 100 sÃ©ries, carregado com todas as temporadas, dubladas e legendadas, com uma qualidade de vÃ­deo de 1080p - 720p[/COLOR]</description>
+        <disclaimer lang="en">[COLOR aqua]O autor nÃ£o hospedar ou distribuir qualquer conteÃºdo exibido por este complemento.[COLOR blue][B] Atto.TV [/B][/COLOR]tem nenhuma afiliaÃ§Ã£o com o provedor de conteÃºdo.[COLOR blue][B] Atto.TV [/B][/COLOR]somente Ã© responsÃ¡vel por coletar
+            os melhores series da Internet, categorizaÃ§Ã£o e otimizÃ¡-los, de modo a que esta ao alcance de seus clientes. tÃ£o fÃ¡cil e descomplicada.[/COLOR]</disclaimer>
         <website>http://atto.tv/</website>
         <forum>https://atto.tv/forum</forum>
         <license>http://www.gnu.org/licenses/</license>
@@ -484,9 +484,9 @@ Channels and Playlists organized by categories. Source: Youtube Website.
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLOR lime]Filmes Torrent - Series Torrent - [COLOR gold] (Dual-Audio) 1080P - 720P[/COLOR]</summary>
-        <description lang="en">[COLOR gold][B]ATTO[COLOR white] - [/COLOR]TORRENTS![/B][/COLOR][COLOR lime], oferece Filmes y Series, de qualidade 4K, H265 - 7.1, H264 - 5.1, 3D, 1080P e 720P y WEB-RIP, disponíveis para download via torrent, links totalmente funcionais e constantemente
+        <description lang="en">[COLOR gold][B]ATTO[COLOR white] - [/COLOR]TORRENTS![/B][/COLOR][COLOR lime], oferece Filmes y Series, de qualidade 4K, H265 - 7.1, H264 - 5.1, 3D, 1080P e 720P y WEB-RIP, disponÃ­veis para download via torrent, links totalmente funcionais e constantemente
             atualizados.[/COLOR],</description>
-        <disclaimer lang="en">[COLOR blue][B] Atto.TV[/B][/COLOR][COLOR lime], nao tem nenhuma afiliação com o provedor de conteúdo.[COLOR blue][B] Atto.TV [/B][/COLOR]Os creditos para a pagina: http://www.megatorrentshd.com[/COLOR]</disclaimer>
+        <disclaimer lang="en">[COLOR blue][B] Atto.TV[/B][/COLOR][COLOR lime], nao tem nenhuma afiliaÃ§Ã£o com o provedor de conteÃºdo.[COLOR blue][B] Atto.TV [/B][/COLOR]Os creditos para a pagina: http://www.megatorrentshd.com[/COLOR]</disclaimer>
         <website>http://atto.tv/</website>
         <forum>https://atto.tv/forum</forum>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3.</license>
@@ -608,9 +608,9 @@ Channels and Playlists organized by categories. Source: Youtube Website.
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>[B][COLOR gold]FILMES,SERIES EM [COLOR gold]FHD[/COLOR], [COLOR gold]HD[/COLOR], [COLOR gold]SD[/COLOR], [COLOR gold]NOVELAS[/COLOR], [COLOR gold]DOCUMENTARIOS[/COLOR], [COLOR gold]DESENHOS[/COLOR], [COLOR gold]ETC[/COLOR], [COLOR gold]DUBLADOS[/COLOR] e [COLOR gold]Legendados[/COLOR]. O MELHOR ADDON DE FILMES E SERIES PRO SEU KODI!, AQUI VOCÊ ENCONTRA TUDO, GARANTIDO!. Senão ACHA FALA COM NOSSO TEAM[/COLOR][/B]</summary>
-    <description lang="en">[B][COLOR gold]BLURAY PLAY'S É Apenas Um AGREGADOR De Links E Assim Como O Google.com, Apenas Agrega E Organiza Os Links Externos. Não Somos Responsáveis Pelos Conteúdos Encontrados Aqui... Ateciosamente Team BLURAY PLAY'S[/COLOR][/B]</description>
-    <disclaimer lang="en">[B][COLOR white]O autor não hospedar ou distribuir qualquer conteúdo exibido por este complemento.[/COLOR][/B] [B][COLOR white]BLURAY PLAY'S[/COLOR][/B] [B][COLOR red]tem nenhuma afiliação com o provedor de conteúdo[/COLOR][/B] [B][COLOR gold]somente é responsável por coletar os melhores filmes da Internet, categorização e otimizá-los, de modo a que esta ao alcance de seus clientes. tão fácil e descomplicada.[/COLOR][/B]</disclaimer>
+    <summary>[B][COLOR gold]FILMES,SERIES EM [COLOR gold]FHD[/COLOR], [COLOR gold]HD[/COLOR], [COLOR gold]SD[/COLOR], [COLOR gold]NOVELAS[/COLOR], [COLOR gold]DOCUMENTARIOS[/COLOR], [COLOR gold]DESENHOS[/COLOR], [COLOR gold]ETC[/COLOR], [COLOR gold]DUBLADOS[/COLOR] e [COLOR gold]Legendados[/COLOR]. O MELHOR ADDON DE FILMES E SERIES PRO SEU KODI!, AQUI VOCÃŠ ENCONTRA TUDO, GARANTIDO!. SenÃ£o ACHA FALA COM NOSSO TEAM[/COLOR][/B]</summary>
+    <description lang="en">[B][COLOR gold]BLURAY PLAY'S Ã‰ Apenas Um AGREGADOR De Links E Assim Como O Google.com, Apenas Agrega E Organiza Os Links Externos. NÃ£o Somos ResponsÃ¡veis Pelos ConteÃºdos Encontrados Aqui... Ateciosamente Team BLURAY PLAY'S[/COLOR][/B]</description>
+    <disclaimer lang="en">[B][COLOR white]O autor nÃ£o hospedar ou distribuir qualquer conteÃºdo exibido por este complemento.[/COLOR][/B] [B][COLOR white]BLURAY PLAY'S[/COLOR][/B] [B][COLOR red]tem nenhuma afiliaÃ§Ã£o com o provedor de conteÃºdo[/COLOR][/B] [B][COLOR gold]somente Ã© responsÃ¡vel por coletar os melhores filmes da Internet, categorizaÃ§Ã£o e otimizÃ¡-los, de modo a que esta ao alcance de seus clientes. tÃ£o fÃ¡cil e descomplicada.[/COLOR][/B]</disclaimer>
 	<platform>all</platform>
     <assets>
 	<icon>icon.png</icon>
@@ -653,18 +653,18 @@ Channels and Playlists organized by categories. Source: Youtube Website.
   </extension>
   <extension point="xbmc.addon.metadata">
   	<summary>[COLOR green][B]Brasil [/B][/COLOR][COLOR yellow][B]Full[/B][/COLOR] - Saiu Dublado, Saiu Aqui</summary>
-    <description lang="en">[COLOR white][B]Add-on brasileiro com conteúdos dublados no idioma pt-BR, qualidade minima em 720p e máxima de 4K.[/B][/COLOR]</description>
-    <disclaimer lang="en">Todo o conteúdo encontrado neste addon esta em um servidor próprio e é armazenado e upado pela equipe Brasil Full, qualquer cópia de conteudo eu vou saber. O uso deste addon é PIRATARIA então caso não goste deste tipo de conteúdo recomendo que não instalem, tanto eu como você (usuário) podem ser punidos pela lei Anti-Pirataria então use por conta, risco e foda-se.</disclaimer>
+    <description lang="en">[COLOR white][B]Add-on brasileiro com conteÃºdos dublados no idioma pt-BR, qualidade minima em 720p e mÃ¡xima de 4K.[/B][/COLOR]</description>
+    <disclaimer lang="en">Todo o conteÃºdo encontrado neste addon esta em um servidor prÃ³prio e Ã© armazenado e upado pela equipe Brasil Full, qualquer cÃ³pia de conteudo eu vou saber. O uso deste addon Ã© PIRATARIA entÃ£o caso nÃ£o goste deste tipo de conteÃºdo recomendo que nÃ£o instalem, tanto eu como vocÃª (usuÃ¡rio) podem ser punidos pela lei Anti-Pirataria entÃ£o use por conta, risco e foda-se.</disclaimer>
     <website>https://brfull.ml/</website>
     <email>suporte.brasilfull@gmail.com</email>
-    <news>│Atualização v3.2:│
+    <news>â”‚AtualizaÃ§Ã£o v3.2:â”‚
 
-Sistema de Pesquisa Filmes e Canais│
-                   │Melhorias de estabilidade
-                  Correções de bugs│
-                   │Temas
-              Melhoria na Segurança│
-                   │Melhorias nos Servidores de Canais
+Sistema de Pesquisa Filmes e Canaisâ”‚
+                   â”‚Melhorias de estabilidade
+                  CorreÃ§Ãµes de bugsâ”‚
+                   â”‚Temas
+              Melhoria na SeguranÃ§aâ”‚
+                   â”‚Melhorias nos Servidores de Canais
 
           Brasil Full - Saiu Dublado Saiu Aqui
      </news>
@@ -689,18 +689,18 @@ Sistema de Pesquisa Filmes e Canais│
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">IPTV livre para todos.</summary>
-    <description lang="en">[COLOR lime]Instale nosso repositório oficial (BrazilTV Repo) para receber atualizações rapidamente![/COLOR]
+    <description lang="en">[COLOR lime]Instale nosso repositÃ³rio oficial (BrazilTV Repo) para receber atualizaÃ§Ãµes rapidamente![/COLOR]
 [COLOR yellow]Requer os addons F4mProxy e f4mTester para funcionar.[/COLOR]
 
-[B]ATENÇÃO:[/B] Não hospedamos nem temos ligação com nenhum dos conteúdos deste addon, apenas reunimos links de transmissões públicas feitas por terceiros. A estabilidade 100% dos canais não é garantida, mas estamos trabalhando diariamente para tentar mantê-la. Os dados de EPG também são de disponibilidade pública e encontrados na internet. Fique atento a atualizações futuras em nosso site oficial.</description>
+[B]ATENÃ‡ÃƒO:[/B] NÃ£o hospedamos nem temos ligaÃ§Ã£o com nenhum dos conteÃºdos deste addon, apenas reunimos links de transmissÃµes pÃºblicas feitas por terceiros. A estabilidade 100% dos canais nÃ£o Ã© garantida, mas estamos trabalhando diariamente para tentar mantÃª-la. Os dados de EPG tambÃ©m sÃ£o de disponibilidade pÃºblica e encontrados na internet. Fique atento a atualizaÃ§Ãµes futuras em nosso site oficial.</description>
     <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
     </assets>
     <website>http://bit.ly/BrazilTVKodi</website>
-    <news>[COLOR lime]v0.7 - Primeiro addon de TV do Brasil com EPG embutido (beta)! Agora com novas funções de EPG completo por canal e outras modificações.[/COLOR]
+    <news>[COLOR lime]v0.7 - Primeiro addon de TV do Brasil com EPG embutido (beta)! Agora com novas funÃ§Ãµes de EPG completo por canal e outras modificaÃ§Ãµes.[/COLOR]
 
-[COLOR white][B]Envie sugestões de funcionalidades no nosso site oficial![/B][/COLOR]</news>
+[COLOR white][B]Envie sugestÃµes de funcionalidades no nosso site oficial![/B][/COLOR]</news>
   </extension>
 </addon>
 
@@ -722,9 +722,9 @@ Sistema de Pesquisa Filmes e Canais│
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">TV AO VIVO [COLOR yellow]l[/COLOR] IPTV [COLOR yellow]l[/COLOR]</summary>
-    <description lang="en">O autor não é responsável pelo uso deste addon. [B][COLOR white]Br'[/COLOR][/B][COLOR red]Live[/COLOR]
+    <description lang="en">O autor nÃ£o Ã© responsÃ¡vel pelo uso deste addon. [B][COLOR white]Br'[/COLOR][/B][COLOR red]Live[/COLOR]
 
-O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.
+O autor nÃ£o Ã© de forma alguma afiliado Ã  Kodi, Ã  Team Kodi ou Ã  XBMC Foundation. Este Ã© um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seÃ§Ã£o 107, que promove a liberdade de expressÃ£o, permitindo o uso nÃ£o licenciado de obras protegidas por direitos autorais.
 
 [B][COLOR white]Br'[/COLOR][/B][COLOR red]Live[/COLOR] DO MELHOR COM IPTV PARA A SUA CASA [COLOR yellow][B]l[/COLOR][/B]</description>
     <platform>all</platform>
@@ -752,7 +752,7 @@ O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Founda
 </addon>
 
 <addon id="plugin.video.cangaco"
-       name="Hidra Cangaço"
+       name="Hidra CangaÃ§o"
        version="3.0"
        provider-name="Kodish MC">
   <requires>
@@ -775,13 +775,13 @@ O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Founda
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Hidra Cangaço</summary>
-    <description lang="en">Hidra Cangaço é um addon torrent mais cabra da peste</description>
+    <summary lang="en">Hidra CangaÃ§o</summary>
+    <description lang="en">Hidra CangaÃ§o Ã© um addon torrent mais cabra da peste</description>
     <platform>all</platform>
   </extension>
  </addon>
 
-<addon id="plugin.video.casteloratimbum" version="1.0.0" name="Castelo Rá-Tim-Bum!" provider-name="Kodish-MC">
+<addon id="plugin.video.casteloratimbum" version="1.0.0" name="Castelo RÃ¡-Tim-Bum!" provider-name="Kodish-MC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -793,8 +793,8 @@ O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Founda
   </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Castelo Rá-Tim-Bum!</summary>
-    <description lang="en">Esse addon contem todos episodios Castelo Rá-Tim-Bum!</description>
+    <summary lang="en">Castelo RÃ¡-Tim-Bum!</summary>
+    <description lang="en">Esse addon contem todos episodios Castelo RÃ¡-Tim-Bum!</description>
     <platform>all</platform>
     <forum></forum>
     <website></website>
@@ -879,7 +879,7 @@ O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Founda
     <language>en</language>
     <platform>all</platform>
     <summary lang="en">[COLOR white]Cinema[COLOR red] Livre[/COLOR]</summary>
-	<description lang="en">O [COLOR white]Cinema[COLOR red] Livre[/COLOR] é um portal de vídeos dedicado a disponibilizar online filmes clássicos em versões completas e legendadas.</description>
+	<description lang="en">O [COLOR white]Cinema[COLOR red] Livre[/COLOR] Ã© um portal de vÃ­deos dedicado a disponibilizar online filmes clÃ¡ssicos em versÃµes completas e legendadas.</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -903,9 +903,9 @@ O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Founda
 </addon>
 
 <addon id="plugin.video.conexao"
-       name="[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]ão[/COLOR][COLOR red] Tv[/COLOR][/B]"
+       name="[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]Ã£o[/COLOR][COLOR red] Tv[/COLOR][/B]"
        version="2.0.2"
-       provider-name="[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]ão[/COLOR][COLOR red] Tv[/COLOR][/B]">
+       provider-name="[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]Ã£o[/COLOR][COLOR red] Tv[/COLOR][/B]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -927,21 +927,21 @@ O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Founda
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]ão[/COLOR][COLOR red] Tv[/COLOR][/B][COLOR aqua][B]  Feito Pra Você[/B][/COLOR]</summary>
-    <disclaimer lang="en">O autor não é responsável pelo uso deste addon. O autor não é responsável pelo conteúdo encontrado usando este addon. O autor não hospeda ou possui qualquer conteúdo encontrado dentro deste addon. O autor não é de forma alguma afiliado com Kodi, Team Kodi, ou a Fundação XBMC. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais. fins protegidos pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, ao permitir o uso não licenciado de obras protegidas por direitos autorais.</disclaimer>
-	<description lang="pt">[COLOR white][B]Add-on [B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]ão[/COLOR][COLOR red] Tv[/COLOR][/B][COLOR gold] com foco em conteúdos dublados [/COLOR][/B][COLOR/] [COLOR lime]*TV*[COLOR red]*FILMES* [/COLOR] [COLOR firebrick]*SERIES* [COLOR blue]*DESENHOS*  [COLOR orange]*ANIMES* [COLOR cyan]*LANCAMENTOS* [COLOR lime]*HD* [COLOR yellow]*FHD*[/COLOR]</description>
+    <summary>[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]Ã£o[/COLOR][COLOR red] Tv[/COLOR][/B][COLOR aqua][B]  Feito Pra VocÃª[/B][/COLOR]</summary>
+    <disclaimer lang="en">O autor nÃ£o Ã© responsÃ¡vel pelo uso deste addon. O autor nÃ£o Ã© responsÃ¡vel pelo conteÃºdo encontrado usando este addon. O autor nÃ£o hospeda ou possui qualquer conteÃºdo encontrado dentro deste addon. O autor nÃ£o Ã© de forma alguma afiliado com Kodi, Team Kodi, ou a FundaÃ§Ã£o XBMC. Este Ã© um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais. fins protegidos pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seÃ§Ã£o 107, que promove a liberdade de expressÃ£o, ao permitir o uso nÃ£o licenciado de obras protegidas por direitos autorais.</disclaimer>
+	<description lang="pt">[COLOR white][B]Add-on [B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]Ã£o[/COLOR][COLOR red] Tv[/COLOR][/B][COLOR gold] com foco em conteÃºdos dublados [/COLOR][/B][COLOR/] [COLOR lime]*TV*[COLOR red]*FILMES* [/COLOR] [COLOR firebrick]*SERIES* [COLOR blue]*DESENHOS*  [COLOR orange]*ANIMES* [COLOR cyan]*LANCAMENTOS* [COLOR lime]*HD* [COLOR yellow]*FHD*[/COLOR]</description>
     <website>http://hydrasirius.ml/conexaotv/</website>
     <email>candido.marcio.marcio@gmail.com</email>
     <reuselanguageinvoker>false</reuselanguageinvoker>
-   <news>[COLOR lime]Atualização v2.0.2:[/COLOR]
+   <news>[COLOR lime]AtualizaÃ§Ã£o v2.0.2:[/COLOR]
 
 
    [COLOR violet][B]Melhor compatibilidade com GDrive[/B][/COLOR]
           [COLOR coral][B]Melhor compatibilidade com Youtube[/B][/COLOR]
           [COLOR aqua][B]Melhor compatibilidade com F4MTester[/B][/COLOR]
           [COLOR god][B]Melhorias de estabilidade[/B][/COLOR]
-		[COLOR lime][B]Organização melhorada[/B][/COLOR]
-		[COLOR blue][B]Correções de bugs[/B][/COLOR]
+		[COLOR lime][B]OrganizaÃ§Ã£o melhorada[/B][/COLOR]
+		[COLOR blue][B]CorreÃ§Ãµes de bugs[/B][/COLOR]
 		[COLOR red][B]Novas Thumbnails e Imagens de fundo[/B][/COLOR]
 
 
@@ -953,9 +953,9 @@ O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Founda
 </addon>
 
 <addon id="plugin.video.ConexaoTube"
-       name="[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]ão[/COLOR][COLOR red] Tube[/COLOR][/B]"
+       name="[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]Ã£o[/COLOR][COLOR red] Tube[/COLOR][/B]"
        version="2.0.1"
-       provider-name="[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]ão[/COLOR][COLOR red] Tv[/COLOR][/B]">
+       provider-name="[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]Ã£o[/COLOR][COLOR red] Tv[/COLOR][/B]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -978,8 +978,8 @@ O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Founda
   </extension>
   <extension point="xbmc.addon.metadata">
         <summary>[B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]ao[/COLOR][COLOR red] Tube[/COLOR][/B][COLOR aqua][B]O Youtube No Seu Kodi [/B][/COLOR]</summary>
-<disclaimer lang="en">O autor não é responsável pelo uso deste addon. O autor não é responsável pelo conteúdo encontrado usando este addon. O autor não hospeda ou possui qualquer conteúdo encontrado dentro deste addon. O autor não é de forma alguma afiliado com Kodi, Team Kodi, ou a Fundação XBMC. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais. fins protegidos pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, ao permitir o uso não licenciado de obras protegidas por direitos autorais.</disclaimer>
-	<description lang="pt">[COLOR white][B]Add-on [B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]ão[/COLOR][COLOR red] Tube[/COLOR][/B][COLOR gold][B] Com Foco em Conteúdos Emcotrados No Youtube[/B][/COLOR]</description>
+<disclaimer lang="en">O autor nÃ£o Ã© responsÃ¡vel pelo uso deste addon. O autor nÃ£o Ã© responsÃ¡vel pelo conteÃºdo encontrado usando este addon. O autor nÃ£o hospeda ou possui qualquer conteÃºdo encontrado dentro deste addon. O autor nÃ£o Ã© de forma alguma afiliado com Kodi, Team Kodi, ou a FundaÃ§Ã£o XBMC. Este Ã© um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais. fins protegidos pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seÃ§Ã£o 107, que promove a liberdade de expressÃ£o, ao permitir o uso nÃ£o licenciado de obras protegidas por direitos autorais.</disclaimer>
+	<description lang="pt">[COLOR white][B]Add-on [B][COLOR beige]Cone[B][COLOR aqua][B]x[/B][COLOR  beige][B]Ã£o[/COLOR][COLOR red] Tube[/COLOR][/B][COLOR gold][B] Com Foco em ConteÃºdos Emcotrados No Youtube[/B][/COLOR]</description>
     <description>Canais e Filmes do yuotube Direto no Kodi</description>
  <platform>all</platform>
   </extension>
@@ -1011,7 +1011,7 @@ O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Founda
         <summary lang="de_DE">ERLEBE DEINEN SPORT. LIVE UND AUF ABRUF.</summary>
         <description lang="de_DE">
 DAZN ist ein live und on-demand Sportstreaming-Dienst.
-Du kannst jetzt Sportevents anschauen, wann immer es dir passt. Jederzeit. Überall.
+Du kannst jetzt Sportevents anschauen, wann immer es dir passt. Jederzeit. Ãœberall.
         </description>
         <disclaimer lang="de_DE">Inoffizielles Addon - Benutzung auf eigene Gefahr</disclaimer>
         <summary lang="en_GB">WATCH SPORTS. LIVE AND ON-DEMAND.</summary>
@@ -1034,16 +1034,16 @@ Cuando quieras. Donde quieras.
         <disclaimer lang="es_ES">Complemento no oficial - Use bajo su propio riesgo</disclaimer>
         <summary lang="fr_CA">REGARDER LES SPORTS. VIVANT OU PLUS TARD.</summary>
         <description lang="fr_CA">
-Regardez avec DAZN vos sports préférés �  la demande.
-Quand voulez. Où vous voulez.
+Regardez avec DAZN vos sports prÃ©fÃ©rÃ©s Ã  la demande.
+Quand voulez. OÃ¹ vous voulez.
         </description>
-        <disclaimer lang="fr_CA">Addiciel non officiel - Utilisez �  vos risques et périls</disclaimer>
+        <disclaimer lang="fr_CA">Addiciel non officiel - Utilisez Ã  vos risques et pÃ©rils</disclaimer>
         <summary lang="fr_FR">REGARDER LES SPORTS. VIVANT OU PLUS TARD.</summary>
         <description lang="fr_FR">
-Regardez avec DAZN vos sports préférés �  la demande.
-Quand voulez. Où vous voulez.
+Regardez avec DAZN vos sports prÃ©fÃ©rÃ©s Ã  la demande.
+Quand voulez. OÃ¹ vous voulez.
         </description>
-        <disclaimer lang="fr_FR">Addiciel non officiel - Utilisez �  vos risques et périls</disclaimer>
+        <disclaimer lang="fr_FR">Addiciel non officiel - Utilisez Ã  vos risques et pÃ©rils</disclaimer>
         <summary lang="it_IT">GUARDARE SPORT. LIVE E A RICHIESTA.</summary>
         <description lang="it_IT">
 Con DAZN puoi guardare i tuoi eventi sportivi preferiti a tuo piacimento.
@@ -1090,7 +1090,7 @@ Quando vuoi. Dove vuoi.
 
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Desenhos.jr</summary>
-    <description lang="en">Uma seleção com os melhores desenhos do youtube.</description>
+    <description lang="en">Uma seleÃ§Ã£o com os melhores desenhos do youtube.</description>
     <platform>all</platform>
     <forum></forum>
     <website></website>
@@ -1194,7 +1194,7 @@ Quando vuoi. Dove vuoi.
 
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Espiritismo</summary>
-    <description lang="en">Uma seleção de Conhecimentos Espiritas.</description>
+    <description lang="en">Uma seleÃ§Ã£o de Conhecimentos Espiritas.</description>
     <platform>all</platform>
     <forum></forum>
     <website></website>
@@ -1308,10 +1308,10 @@ provider-name="primaeval">
     <summary lang="en">TV [COLOR firebrick]l[/COLOR] FILMES [COLOR firebrick]l[/COLOR] SERIES [COLOR firebrick]l[/COLOR] DESENHOS [COLOR firebrick]l[/COLOR] ANIMES [COLOR firebrick]l[/COLOR] LANCAMENTOS [COLOR firebrick]l[/COLOR] HD [COLOR firebrick]l[/COLOR] FHD</summary>
 
 	<description lang="en">[COLOR firebrick]l[/COLOR] TV [COLOR firebrick]l[/COLOR] FILMES [COLOR firebrick]l[/COLOR] SERIES [COLOR firebrick]l[/COLOR] DESENHOS [COLOR firebrick]l[/COLOR] ANIMES [COLOR firebrick]l[/COLOR] LANCAMENTOS [COLOR firebrick]l[/COLOR] HD [COLOR firebrick]l[/COLOR] FHD [COLOR firebrick]l[/COLOR]
-[COLOR firebrick]l[/COLOR] O autor não hospeda nem possui nenhum conteúdo encontrado neste addon. O autor não é responsável pelo uso e pelo conteúdo encontrado neste addon [COLOR firebrick]l[/COLOR]
+[COLOR firebrick]l[/COLOR] O autor nÃ£o hospeda nem possui nenhum conteÃºdo encontrado neste addon. O autor nÃ£o Ã© responsÃ¡vel pelo uso e pelo conteÃºdo encontrado neste addon [COLOR firebrick]l[/COLOR]
 
 l [COLOR firebrick]FENIX[/COLOR] EVOLUTION - DO CINEMA PARA SUA CASA - 100% HD [COLOR firebrick]l[/COLOR]</description>
-	<disclaimer lang="en">O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.</disclaimer>
+	<disclaimer lang="en">O autor nÃ£o Ã© de forma alguma afiliado Ã  Kodi, Ã  Team Kodi ou Ã  XBMC Foundation. Este Ã© um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seÃ§Ã£o 107, que promove a liberdade de expressÃ£o, permitindo o uso nÃ£o licenciado de obras protegidas por direitos autorais.</disclaimer>
     <platform>all</platform>
 	<website/>
         <video_guide></video_guide>
@@ -1354,10 +1354,10 @@ l [COLOR firebrick]FENIX[/COLOR] EVOLUTION - DO CINEMA PARA SUA CASA - 100% HD [
     <summary lang="en">TV [COLOR firebrick]l[/COLOR] FILMES [COLOR firebrick]l[/COLOR] SERIES [COLOR firebrick]l[/COLOR] DESENHOS [COLOR firebrick]l[/COLOR] ANIMES [COLOR firebrick]l[/COLOR] LANCAMENTOS [COLOR firebrick]l[/COLOR] HD [COLOR firebrick]l[/COLOR] FHD</summary>
 
 	<description lang="en">[COLOR firebrick]l[/COLOR] TV [COLOR firebrick]l[/COLOR] FILMES [COLOR firebrick]l[/COLOR] SERIES [COLOR firebrick]l[/COLOR] DESENHOS [COLOR firebrick]l[/COLOR] ANIMES [COLOR firebrick]l[/COLOR] LANCAMENTOS [COLOR firebrick]l[/COLOR] HD [COLOR firebrick]l[/COLOR] FHD [COLOR firebrick]l[/COLOR]
-[COLOR firebrick]l[/COLOR] O autor não hospeda nem possui nenhum conteúdo encontrado neste addon. O autor não é responsável pelo uso e pelo conteúdo encontrado neste addon [COLOR firebrick]l[/COLOR]
+[COLOR firebrick]l[/COLOR] O autor nÃ£o hospeda nem possui nenhum conteÃºdo encontrado neste addon. O autor nÃ£o Ã© responsÃ¡vel pelo uso e pelo conteÃºdo encontrado neste addon [COLOR firebrick]l[/COLOR]
 
 l [COLOR firebrick]FENIX[/COLOR] FLIX - DO CINEMA PARA SUA CASA - 100% FHD [COLOR firebrick]l[/COLOR]</description>
-	<disclaimer lang="en">O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.</disclaimer>
+	<disclaimer lang="en">O autor nÃ£o Ã© de forma alguma afiliado Ã  Kodi, Ã  Team Kodi ou Ã  XBMC Foundation. Este Ã© um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seÃ§Ã£o 107, que promove a liberdade de expressÃ£o, permitindo o uso nÃ£o licenciado de obras protegidas por direitos autorais.</disclaimer>
     <platform>all</platform>
 	<website/>
         <video_guide></video_guide>
@@ -1392,8 +1392,8 @@ l [COLOR firebrick]FENIX[/COLOR] FLIX - DO CINEMA PARA SUA CASA - 100% FHD [COLO
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR red][B]Flecha[/B][/COLOR] [COLOR black][B]Negra[/B][/COLOR] [COLORorange][B]é um addon da familia Kodiazor Team.TODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/B][/COLOR]</summary>
-    <description lang="en">[COLOR red][B]Flecha[/B][/COLOR] [COLOR black][B]Negra[/B][/COLOR] [COLORorange][B]é um addon da familia Kodiazor Team.TODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/B][/COLOR]</description>
+    <summary lang="en">[COLOR red][B]Flecha[/B][/COLOR] [COLOR black][B]Negra[/B][/COLOR] [COLORorange][B]Ã© um addon da familia Kodiazor Team.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/B][/COLOR]</summary>
+    <description lang="en">[COLOR red][B]Flecha[/B][/COLOR] [COLOR black][B]Negra[/B][/COLOR] [COLORorange][B]Ã© um addon da familia Kodiazor Team.TODOS OS LINKS ESTÃƒO DISPONIVEIS NA INTERNET![/B][/COLOR]</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -1422,7 +1422,7 @@ l [COLOR firebrick]FENIX[/COLOR] FLIX - DO CINEMA PARA SUA CASA - 100% FHD [COLO
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Fora da Box</summary>
-    <description>Tudo o que o media center já tinha, mais aquilo que ainda lhe faltava. Todo o conteudo deste addon provém do Youtube.</description>
+    <description>Tudo o que o media center jÃ¡ tinha, mais aquilo que ainda lhe faltava. Todo o conteudo deste addon provÃ©m do Youtube.</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -1462,7 +1462,7 @@ l [COLOR firebrick]FENIX[/COLOR] FLIX - DO CINEMA PARA SUA CASA - 100% FHD [COLO
 
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[COLOR  white][B]Sempre[COLOR  blue][B]Atualizando[/B][/COLOR][COLOR  white][B]..[/B][/COLOR]</summary>
-	     <description lang="pt">[B][COLOR cyan]ADDON FORMIGAtv [/COLOR][/B][B][COLOR white] é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
+	     <description lang="pt">[B][COLOR cyan]ADDON FORMIGAtv [/COLOR][/B][B][COLOR white] Ã© apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. NÃ£o somos responsÃ¡veis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
 		 <disclaimer lang="en">FORMIGAtv - Sua Nova Forma De Ver TV</disclaimer>
     <platform>all</platform>
 
@@ -1639,7 +1639,7 @@ Toda a fonte  vem de utilizadores do Youtube.
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">TV,Filmes,Series,Desenhos Online.</summary>
-    <description lang="en">Sem servidor Próprio, conteúdos reorganizados de busca livre na internet! </description>
+    <description lang="en">Sem servidor PrÃ³prio, conteÃºdos reorganizados de busca livre na internet! </description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -1726,9 +1726,9 @@ Toda a fonte  vem de utilizadores do Youtube.
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[COLOR yellow]LIQUID TV[/COLOR]</summary>
     <description lang="en">
-        [COLOR red][B]∆ PROIBIDO A VENDA DESTE ADDON ∆[/B][/COLOR]
+        [COLOR red][B]âˆ† PROIBIDO A VENDA DESTE ADDON âˆ†[/B][/COLOR]
 
-[COLOR white][B]ATENÇÃO:[/B][/COLOR] Este addon é apenas um agregador de links de transmissões públicas feitas por terceiros. Não hospedamos nem temos ligação com nenhum desses conteúdos. A estabilidade 100% dos canais não é garantida. Fique atento a atualizações futuras.
+[COLOR white][B]ATENÃ‡ÃƒO:[/B][/COLOR] Este addon Ã© apenas um agregador de links de transmissÃµes pÃºblicas feitas por terceiros. NÃ£o hospedamos nem temos ligaÃ§Ã£o com nenhum desses conteÃºdos. A estabilidade 100% dos canais nÃ£o Ã© garantida. Fique atento a atualizaÃ§Ãµes futuras.
 
 Requer o addon [COLOR yellow]GDrive[/COLOR] para funcionar Os Filmes.</description>
     <platform>all</platform>
@@ -1760,12 +1760,12 @@ Requer o addon [COLOR yellow]GDrive[/COLOR] para funcionar Os Filmes.</descripti
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">FILMES [COLOR lime]|[/COLOR] SÉRIES [COLOR lime]|[/COLOR] ANIMES [COLOR lime]|[/COLOR] FILMES MAIS ESPERADOS [COLOR lime]|[/COLOR] COLETÂNEA [COLOR lime]|[/COLOR] TV AO VIVO</summary>
+    <summary lang="en">FILMES [COLOR lime]|[/COLOR] SÃ‰RIES [COLOR lime]|[/COLOR] ANIMES [COLOR lime]|[/COLOR] FILMES MAIS ESPERADOS [COLOR lime]|[/COLOR] COLETÃ‚NEA [COLOR lime]|[/COLOR] TV AO VIVO</summary>
 
-	<description lang="en">[COLOR lime]|[/COLOR] O Live Tv é Responsável Por Todos Os Conteúdos encontrado neste addon[COLOR lime]|[/COLOR]
+	<description lang="en">[COLOR lime]|[/COLOR] O Live Tv Ã© ResponsÃ¡vel Por Todos Os ConteÃºdos encontrado neste addon[COLOR lime]|[/COLOR]
 
 MELHOR LISTA DE CANAIS VIA INTERNET  [COLOR orange][B][COLOR lime]LIVE[/COLOR] TV[/B]</description>
-	<disclaimer lang="en">O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.</disclaimer>
+	<disclaimer lang="en">O autor nÃ£o Ã© de forma alguma afiliado Ã  Kodi, Ã  Team Kodi ou Ã  XBMC Foundation. Este Ã© um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seÃ§Ã£o 107, que promove a liberdade de expressÃ£o, permitindo o uso nÃ£o licenciado de obras protegidas por direitos autorais.</disclaimer>
     <platform>all</platform>
 	<website/>
         <video_guide></video_guide>
@@ -1851,7 +1851,7 @@ MELHOR LISTA DE CANAIS VIA INTERNET  [COLOR orange][B][COLOR lime]LIVE[/COLOR] T
   </extension>
 </addon>
 
-<addon id="plugin.video.MinhaSerie" name="Minha Série" version="0.0.1" provider-name="Lojink / ali">
+<addon id="plugin.video.MinhaSerie" name="Minha SÃ©rie" version="0.0.1" provider-name="Lojink / ali">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="2.10.0"/>
@@ -1860,9 +1860,9 @@ MELHOR LISTA DE CANAIS VIA INTERNET  [COLOR orange][B][COLOR lime]LIVE[/COLOR] T
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Assista Séries em Sd diretamente pelo kodi...</summary>
-    <description lang="en">Assista Séries em Sd diretamente pelo kodi...</description>
-    <disclaimer lang="en">Assista Séries em Sd diretamente pelo kodi...</disclaimer>
+    <summary lang="en">Assista SÃ©ries em Sd diretamente pelo kodi...</summary>
+    <description lang="en">Assista SÃ©ries em Sd diretamente pelo kodi...</description>
+    <disclaimer lang="en">Assista SÃ©ries em Sd diretamente pelo kodi...</disclaimer>
     <language></language>
     <platform>all</platform>
     <license></license>
@@ -1885,7 +1885,7 @@ MELHOR LISTA DE CANAIS VIA INTERNET  [COLOR orange][B][COLOR lime]LIVE[/COLOR] T
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary>MMFilmes HD</summary>
-        <description>Assista filmes e séries online em seu computador, notebook ou celular.</description>
+        <description>Assista filmes e sÃ©ries online em seu computador, notebook ou celular.</description>
     </extension>
 </addon>
 
@@ -1926,7 +1926,7 @@ MELHOR LISTA DE CANAIS VIA INTERNET  [COLOR orange][B][COLOR lime]LIVE[/COLOR] T
     <summary lang="en">MrPiracy</summary>
     <description lang="en">Addon site MrPiracy</description>
     <description lang="en">Filmes e series no Kodi. </description>
-    <disclaimer lang="en">Como desenvolvedor do addon, nada tenho a haver com site. O site pode ser acedido por um browser. Limito-me a ler o seu conteúdo disponibilizado e converter em addon.</disclaimer>
+    <disclaimer lang="en">Como desenvolvedor do addon, nada tenho a haver com site. O site pode ser acedido por um browser. Limito-me a ler o seu conteÃºdo disponibilizado e converter em addon.</disclaimer>
     <language></language>
     <platform>all</platform>
     <license></license>
@@ -2034,7 +2034,7 @@ MELHOR LISTA DE CANAIS VIA INTERNET  [COLOR orange][B][COLOR lime]LIVE[/COLOR] T
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
-    <description lang="en">ASSISTA FILMES E SÉRIES DIRETO DO KODI.</description>
+    <description lang="en">ASSISTA FILMES E SÃ‰RIES DIRETO DO KODI.</description>
     <disclaimer lang="en"></disclaimer>
     <language></language>
     <platform>all</platform>
@@ -2061,8 +2061,8 @@ MELHOR LISTA DE CANAIS VIA INTERNET  [COLOR orange][B][COLOR lime]LIVE[/COLOR] T
   <extension point="xbmc.addon.metadata">
     <reuselanguageinvoker>true</reuselanguageinvoker>
     <summary lang="de_DE">Netflix</summary>
-    <description lang="de_DE">Addon für Netflix VOD Services</description>
-    <disclaimer lang="de_DE">Möglicherweise sind einge Teile dieses Addons in Ihrem Land illegal, Sie sollten dies unbedingt vor der Installation überprüfen.</disclaimer>
+    <description lang="de_DE">Addon fÃ¼r Netflix VOD Services</description>
+    <disclaimer lang="de_DE">MÃ¶glicherweise sind einge Teile dieses Addons in Ihrem Land illegal, Sie sollten dies unbedingt vor der Installation Ã¼berprÃ¼fen.</disclaimer>
     <summary lang="en_GB">Netflix</summary>
     <description lang="en_GB">Netflix VOD Services Addon</description>
     <disclaimer lang="en_GB">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
@@ -2327,8 +2327,8 @@ v0.12.9 (2018-04-16)
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">NordeTv</summary>
-    <description lang="en">[COLOR yellow]l[/COLOR] Add-on [COLOR blue][B]Nordes[/B][/COLOR][COLOR white][B]TV[/B][/COLOR] esta protegido de usso da lei de direitos autorais especificamente a seção 107.[COLOR yellow]l[/COLOR]O autor é responsável pelo uso deste Add-on. [COLOR blue][B]Nordes[/B][/COLOR][COLOR white][B]TV[/B][/COLOR]
-[COLOR yellow]l[/COLOR] O autor não é de forma alguma afiliado �  Kodi, �  Team Kodi ou �  XBMC Foundation. Este é um recurso sem fins lucrativos, [COLOR yellow]l[/COLOR]
+    <description lang="en">[COLOR yellow]l[/COLOR] Add-on [COLOR blue][B]Nordes[/B][/COLOR][COLOR white][B]TV[/B][/COLOR] esta protegido de usso da lei de direitos autorais especificamente a seÃ§Ã£o 107.[COLOR yellow]l[/COLOR]O autor Ã© responsÃ¡vel pelo uso deste Add-on. [COLOR blue][B]Nordes[/B][/COLOR][COLOR white][B]TV[/B][/COLOR]
+[COLOR yellow]l[/COLOR] O autor nÃ£o Ã© de forma alguma afiliado Ã  Kodi, Ã  Team Kodi ou Ã  XBMC Foundation. Este Ã© um recurso sem fins lucrativos, [COLOR yellow]l[/COLOR]
 
              [COLOR blue][B]Nordes[/B][/COLOR][COLOR white][B]TV[/B][/COLOR]
 [COLOR yellow]l[/COLOR]- DO CINEMA PARA SUA CASA -[COLOR yellow]l[/COLOR]</description>
@@ -2362,8 +2362,8 @@ v0.12.9 (2018-04-16)
   </extension>
   <extension point="xbmc.addon.metadata">
 <summary>[B][COLOR yellow]Filmes, Series, Programas de TV e Muito Mais...[/COLOR][B]</summary>
-<description lang="pt">[B][COLOR yellow]Assim como o Google [COLOR white]NETFREE PLAY[/COLOR] Apenas Hospeda Os Links E Os Organiza. Não Tendo Assim Responsábilidade Sobre Os Mesmo.[/COLOR][/B]</description>
-<disclaimer lang="en">[B][COLOR yellow]No Entanto [COLOR white]NETFREE PLAY[/COLOR] NÃO AUTORIZA A COPIA DE SEUS ARQUIVOS EXTERNOS HOSPEDADOS.[/COLOR][/B]</disclaimer>
+<description lang="pt">[B][COLOR yellow]Assim como o Google [COLOR white]NETFREE PLAY[/COLOR] Apenas Hospeda Os Links E Os Organiza. NÃ£o Tendo Assim ResponsÃ¡bilidade Sobre Os Mesmo.[/COLOR][/B]</description>
+<disclaimer lang="en">[B][COLOR yellow]No Entanto [COLOR white]NETFREE PLAY[/COLOR] NÃƒO AUTORIZA A COPIA DE SEUS ARQUIVOS EXTERNOS HOSPEDADOS.[/COLOR][/B]</disclaimer>
 <platform>all</platform>
 <assets>
 <icon>icon.png</icon>
@@ -2399,15 +2399,15 @@ v0.12.9 (2018-04-16)
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR aquamarine]OnePlay[/COLOR] é apenas um AGREGADOR de links, Apenas agrega e organiza os links externos.</summary>
+    <summary lang="en">[COLOR aquamarine]OnePlay[/COLOR] Ã© apenas um AGREGADOR de links, Apenas agrega e organiza os links externos.</summary>
     <description lang="en">[B][COLOR white]TV, Filmes, Series, Desenhos, Animes, Novelas e Muito Mais.[/COLOR][/B]</description>
-	<news>[COLOR aquamarine]Atualização v2.1.0[/COLOR]: BEM VINDO AO ONEPLAY-HD.
-[COLOR aquamarine]Atualização v2.2.1[/COLOR]: ATUALIZAÇÃO DE PLUGINS E IMAGENS.
-[COLOR aquamarine]Atualização v2.3.0[/COLOR]: ATUALIZAÇÃO PARA MELHORIAS E ESTABILIDADE.
-[COLOR aquamarine]Atualização v2.5.0[/COLOR]: MUDANÇA DE SERVIDOR, MAIS SEGURANÇA E FACILIDADE PARA A EQUIPE ONEPLAY.
-[COLOR aquamarine]Atualização v2.5.1[/COLOR]: ATUALIZAÇÃO DO SERVIDOR.
-[COLOR aquamarine]Atualização v2.6.0[/COLOR]: ATUALIZAÇÃO DO SERVIDOR E NOVAS IMAGENS.
-[COLOR aquamarine]Atualização v2.6.1[/COLOR]: ATUALIZAÇÃO DE SEGURANÇA.</news>
+	<news>[COLOR aquamarine]AtualizaÃ§Ã£o v2.1.0[/COLOR]: BEM VINDO AO ONEPLAY-HD.
+[COLOR aquamarine]AtualizaÃ§Ã£o v2.2.1[/COLOR]: ATUALIZAÃ‡ÃƒO DE PLUGINS E IMAGENS.
+[COLOR aquamarine]AtualizaÃ§Ã£o v2.3.0[/COLOR]: ATUALIZAÃ‡ÃƒO PARA MELHORIAS E ESTABILIDADE.
+[COLOR aquamarine]AtualizaÃ§Ã£o v2.5.0[/COLOR]: MUDANÃ‡A DE SERVIDOR, MAIS SEGURANÃ‡A E FACILIDADE PARA A EQUIPE ONEPLAY.
+[COLOR aquamarine]AtualizaÃ§Ã£o v2.5.1[/COLOR]: ATUALIZAÃ‡ÃƒO DO SERVIDOR.
+[COLOR aquamarine]AtualizaÃ§Ã£o v2.6.0[/COLOR]: ATUALIZAÃ‡ÃƒO DO SERVIDOR E NOVAS IMAGENS.
+[COLOR aquamarine]AtualizaÃ§Ã£o v2.6.1[/COLOR]: ATUALIZAÃ‡ÃƒO DE SEGURANÃ‡A.</news>
     <platform>all</platform>
 	<assets>
 <icon>icon.png</icon>
@@ -2521,7 +2521,7 @@ Artwork by @konsumer420
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[COLOR lawngreen]Play Torrents[/COLOR]</summary>
-    <description lang="en">ASSISTA FILMES E SÉRIES EM TORRENTS DIRETO NO KODI.</description>
+    <description lang="en">ASSISTA FILMES E SÃ‰RIES EM TORRENTS DIRETO NO KODI.</description>
     <disclaimer lang="en"></disclaimer>
     <language></language>
     <platform>all</platform>
@@ -2611,7 +2611,7 @@ Toda a fonte  vem de utilizadores do Youtube.
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="pt">Addon dedicado �  paixão pelo desporto motorizado</summary>
+    <summary lang="pt">Addon dedicado Ã  paixÃ£o pelo desporto motorizado</summary>
     <description>Channels and Playlists organized by categories. Sourced from Youtube.
 [B][COLOR lime]Advised the latest version of youtube 6.*.*[/B][/COLOR]</description>
     <platform>all</platform>
@@ -2699,7 +2699,7 @@ Toda a fonte  vem de utilizadores do Youtube.
         <platform>all</platform>
         <summary lang="en">Videos musicais via Youtube</summary>
         <language></language>
-        <description lang="en">Assista aos videos das músicas das playlists do Spotify via Youtube</description>
+        <description lang="en">Assista aos videos das mÃºsicas das playlists do Spotify via Youtube</description>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website></website>
     </extension>
@@ -2772,7 +2772,7 @@ Toda a fonte  vem de utilizadores do Youtube.
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR white][B]TV, Filmes, Séries, Desenhos e Animes[/B][/COLOR]</summary>
+    <summary lang="en">[COLOR white][B]TV, Filmes, SÃ©ries, Desenhos e Animes[/B][/COLOR]</summary>
     <description lang="en">RDOADDONTV</description>
 	<platform>all</platform>
   </extension>
@@ -2930,7 +2930,7 @@ Removed: Nudeflix</news>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Vagalume Fm</summary>
-    <description lang="pt-br">Ouça vossas Radios Favoritas Atraves desse Addon</description>
+    <description lang="pt-br">OuÃ§a vossas Radios Favoritas Atraves desse Addon</description>
 	<description lang="en">Listen your favorites radios this Addon</description>
 	<platform>all</platform>
   </extension>
@@ -2971,7 +2971,7 @@ Removed: Nudeflix</news>
 
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[COLOR  white][B]Sempre[COLOR  white][B]Atualizando[/B][/COLOR][COLOR  orange][B]..[/B][/COLOR]</summary>
-	     <description lang="pt">[B][COLOR cyan]ADDON ValeAPenaVerDenovo [/COLOR][/B][B][COLOR white] é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
+	     <description lang="pt">[B][COLOR cyan]ADDON ValeAPenaVerDenovo [/COLOR][/B][B][COLOR white] Ã© apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. NÃ£o somos responsÃ¡veis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
 		 <disclaimer lang="en">FORMIGAtv - Sua Nova Forma De Ver TV</disclaimer>
     <platform>all</platform>
 
@@ -3005,7 +3005,7 @@ Removed: Nudeflix</news>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[B][COLOR gold]Velhos Tempos [/COLOR]</summary>
-    <description lang="en">[B][COLOR red]Seriados, filmes e desenhos que não voltam...[/B][/COLOR] [B][COLOR blue]Nós não hospedamos ou distribuimos qualquer conteúdo exibido por este addon.[/COLOR][/B] [B][COLOR lime] Nós do Addon Velhos Tempos, não temos nenhuma afiliação com o provedor de conteúdo,[/COLOR][/B] [B][COLOR gold] somos apenas responsáveis por linkar os endereços de conteúdos que já se encontram na Internet, categorizando e organizando, para que quem queira, possa desfrutá-los dentro do seu player preferido.[/COLOR][/B]</description>
+    <description lang="en">[B][COLOR red]Seriados, filmes e desenhos que nÃ£o voltam...[/B][/COLOR] [B][COLOR blue]NÃ³s nÃ£o hospedamos ou distribuimos qualquer conteÃºdo exibido por este addon.[/COLOR][/B] [B][COLOR lime] NÃ³s do Addon Velhos Tempos, nÃ£o temos nenhuma afiliaÃ§Ã£o com o provedor de conteÃºdo,[/COLOR][/B] [B][COLOR gold] somos apenas responsÃ¡veis por linkar os endereÃ§os de conteÃºdos que jÃ¡ se encontram na Internet, categorizando e organizando, para que quem queira, possa desfrutÃ¡-los dentro do seu player preferido.[/COLOR][/B]</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -3037,7 +3037,7 @@ Removed: Nudeflix</news>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">vida</summary>
     <description lang="pt">[B][COLOR cyan]--EQUIPE VIDA--[/COLOR][/B][B][COLOR white] IZAC -- BRIDA -- MORNING STAR -- NANDA TRISTANIA -- WILLIAN RDN.[/COLOR][/B]</description>
-	<disclaimer lang="en">--VIDA-- dê um UP na sua TV</disclaimer>
+	<disclaimer lang="en">--VIDA-- dÃª um UP na sua TV</disclaimer>
 	<platform>all</platform>
   </extension>
 </addon>
@@ -3085,7 +3085,7 @@ Removed: Nudeflix</news>
 
   <extension point="xbmc.addon.metadata">
     <summary lang="en">VRlivreTV</summary>
-    <description lang="en">VRlivreTV - Nosso Agregador de Links e Conteúdos Educacionais</description>
+    <description lang="en">VRlivreTV - Nosso Agregador de Links e ConteÃºdos Educacionais</description>
     <platform>all</platform>
     <forum></forum>
     <website>http://sergiogracas.com</website>
@@ -3208,7 +3208,7 @@ Removed: Nudeflix</news>
   <extension point="xbmc.addon.metadata">
     <summary>[COLOR skyblue]Ghost [/COLOR][COLOR red]XXX[/COLOR]</summary>
     <description>[COLOR skyblue]Ghost [/COLOR][COLOR red]XXX[/COLOR]</description>
-	<disclaimer>Wir uebernehmen keine Verantwortung für Probleme, die dieses Plugin in irgendeiner Form oder Groeße verursachen könnte..</disclaimer>
+	<disclaimer>Wir uebernehmen keine Verantwortung fÃ¼r Probleme, die dieses Plugin in irgendeiner Form oder GroeÃŸe verursachen kÃ¶nnte..</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
@@ -3330,7 +3330,7 @@ Skin and code for skin by Demonstratorz</description>
 </addon>
 
 <addon id="repo.conexaoTV"
- name="[B][COLOR white]Repositorio Cone[B][COLOR violet]x[B][COLOR  white]ão[/COLOR][/B] [B][COLOR violet]Tv[/COLOR][/B]"
+ name="[B][COLOR white]Repositorio Cone[B][COLOR violet]x[B][COLOR  white]Ã£o[/COLOR][/B] [B][COLOR violet]Tv[/COLOR][/B]"
 version="1.00" provider-name="Marciocn">">
 	<requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -3396,8 +3396,8 @@ version="1.00" provider-name="Marciocn">">
 		<summary>Repositorio Vikings</summary>
 		<description>Repositorio oficial Vikings Build - Proibido reproducao sem previa autorizacao</description>
 		<news>
-	Somente Addons TOP, não incluimos "PINDURICALHOS"... somente ADDONS atualizados constantemente!
-	Os addons que será instalado não hospeda nem possui nenhum conteúdo. O autor não é responsável pelo uso e pelo conteúdo encontrado usando este addon
+	Somente Addons TOP, nÃ£o incluimos "PINDURICALHOS"... somente ADDONS atualizados constantemente!
+	Os addons que serÃ¡ instalado nÃ£o hospeda nem possui nenhum conteÃºdo. O autor nÃ£o Ã© responsÃ¡vel pelo uso e pelo conteÃºdo encontrado usando este addon
 </news>
 
 		<disclaimer></disclaimer>
@@ -3413,10 +3413,10 @@ version="1.00" provider-name="Marciocn">">
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR aqua]Add-ons multimídia exclusivos para o receptor Atto Pixel[/COLOR]</summary>
-        <description lang="en">[COLOR aqua]Aqui pode encontrar os melhores complementos para Kodi, testado e aprovado pela equipe [COLOR blue]ATTO[/COLOR]. Sinta-se livre para instalar os complementos que você deseja.[COLOR yellow][COLOR blue]ATTO[/COLOR], faz uma compilação
-            dos melhores complementos da internet, Os créditos são para cada autor do complemento, [COLOR blue]ATTO[/COLOR] apenas disponibiliza seu conteúdo.[/COLOR]</description>
-        <disclaimer lang="en">[COLOR aqua][COLOR blue]ATTO[/COLOR], apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR]</disclaimer>
+        <summary lang="en">[COLOR aqua]Add-ons multimÃ­dia exclusivos para o receptor Atto Pixel[/COLOR]</summary>
+        <description lang="en">[COLOR aqua]Aqui pode encontrar os melhores complementos para Kodi, testado e aprovado pela equipe [COLOR blue]ATTO[/COLOR]. Sinta-se livre para instalar os complementos que vocÃª deseja.[COLOR yellow][COLOR blue]ATTO[/COLOR], faz uma compilaÃ§Ã£o
+            dos melhores complementos da internet, Os crÃ©ditos sÃ£o para cada autor do complemento, [COLOR blue]ATTO[/COLOR] apenas disponibiliza seu conteÃºdo.[/COLOR]</description>
+        <disclaimer lang="en">[COLOR aqua][COLOR blue]ATTO[/COLOR], apenas agrega e organiza os links externos. NÃ£o somos responsÃ¡veis pelos arquivos aqui encontrados.[/COLOR]</disclaimer>
         <forum>https://atto.tv/forum</forum>
         <website>https://atto.tv/</website>
         <license>http://www.gnu.org/licenses/</license>
@@ -3435,10 +3435,10 @@ version="1.00" provider-name="Marciocn">">
     <datadir zip="true">http://braziltv.yolasite.com/resources/repo/</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Repositório oficial BrazilTV.</summary>
-    <description lang="en">Este é o repositório oficial com todos os addons e atualizações do BrazilTV. Aqui você também encontra as dependências necessárias para que tudo funcione corretamente.
+    <summary lang="en">RepositÃ³rio oficial BrazilTV.</summary>
+    <description lang="en">Este Ã© o repositÃ³rio oficial com todos os addons e atualizaÃ§Ãµes do BrazilTV. Aqui vocÃª tambÃ©m encontra as dependÃªncias necessÃ¡rias para que tudo funcione corretamente.
 
-Fique atento em nosso site oficial para mais informações!
+Fique atento em nosso site oficial para mais informaÃ§Ãµes!
 </description>
     <assets>
         <icon>icon.png</icon>
@@ -3456,7 +3456,7 @@ Fique atento em nosso site oficial para mais informações!
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <description>[COLOR firebrick][B]l[/COLOR][/B] Repositorio Oficial de instalacao dos plugins de funcionamento e do addon Fenix [COLOR firebrick][B]l[/COLOR][/B]</description>
-		<disclaimer lang="en">O addon que sera instalado não hospeda nem possui nenhum conteúdo. O autor não é responsável pelo uso e pelo conteúdo encontrado usando este addon.</disclaimer>
+		<disclaimer lang="en">O addon que sera instalado nÃ£o hospeda nem possui nenhum conteÃºdo. O autor nÃ£o Ã© responsÃ¡vel pelo uso e pelo conteÃºdo encontrado usando este addon.</disclaimer>
 		<platform>all</platform>
 		<website/>
         <video_guide></video_guide>
@@ -3551,7 +3551,7 @@ Fique atento em nosso site oficial para mais informações!
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <description>[COLOR orange][B]l[/COLOR][/B] Repositorio de instalacao do addon Live Tv[COLOR orange][B]l[/COLOR][/B]</description>
-		<disclaimer lang="en">O addon que sera instalado não hospeda nem possui nenhum conteúdo. O autor não é responsável pelo uso e pelo conteúdo encontrado usando este addon.</disclaimer>
+		<disclaimer lang="en">O addon que sera instalado nÃ£o hospeda nem possui nenhum conteÃºdo. O autor nÃ£o Ã© responsÃ¡vel pelo uso e pelo conteÃºdo encontrado usando este addon.</disclaimer>
 		<platform>all</platform>
 		<website/>
         <video_guide></video_guide>
@@ -3613,7 +3613,7 @@ Fique atento em nosso site oficial para mais informações!
         </extension>
         <extension point="xbmc.addon.metadata">
                 <summary>The Repository for the Kodi Netflix Addon</summary>
-                <summary lang="de">Das Repository für das Kodi Netflix Addon</summary>
+                <summary lang="de">Das Repository fÃ¼r das Kodi Netflix Addon</summary>
                 <description>Provides the Netflix Addons fpr kodi.</description>
                 <description lang="de">Stellt das Kodi Netflix Addon bereit</description>
                 <disclaimer>Some parts of this Repository may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
@@ -3629,7 +3629,7 @@ Fique atento em nosso site oficial para mais informações!
     </extension>
 	<extension point="xbmc.addon.metadata">
         <description>[COLOR yellow][B]l[/COLOR][/B] Repositorio Oficial de instalacao dos plugins de funcionamento e do addon NordesTv [COLOR yellow][B]l[/COLOR][/B]</description>
-		<disclaimer lang="en">O addon que sera instalado não hospeda nem possui nenhum conteúdo. O autor não é responsável pelo uso e pelo conteúdo encontrado usando este addon.</disclaimer>
+		<disclaimer lang="en">O addon que sera instalado nÃ£o hospeda nem possui nenhum conteÃºdo. O autor nÃ£o Ã© responsÃ¡vel pelo uso e pelo conteÃºdo encontrado usando este addon.</disclaimer>
 		<platform>all</platform>
 		<website/>
         <video_guide></video_guide>
@@ -3644,14 +3644,14 @@ Fique atento em nosso site oficial para mais informações!
 	</extension>
 </addon>
 
-<addon id="repository.tvtuga" name="tvtuga.top Repositório" version="1.0" provider-name="tvtuga.top">
+<addon id="repository.tvtuga" name="tvtuga.top RepositÃ³rio" version="1.0" provider-name="tvtuga.top">
 	<extension point="xbmc.addon.repository" name="tvtuga Repository">
 		<info compressed="false">http://raw.github.com/Milhano/repository.tvtuga/master/addons.xml</info>
 		<checksum>http://raw.github.com/Milhano/repository.tvtuga/master/addons.xml.md5</checksum>
 		<datadir zip="true">http://raw.github.com/Milhano/repository.tvtuga/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>tvtuga.top Repositório</summary>
+		<summary>tvtuga.top RepositÃ³rio</summary>
 		<description>Addon Description</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
@@ -3684,7 +3684,7 @@ Fique atento em nosso site oficial para mais informações!
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="de">xStream Repository</summary>
-        <description lang="de">Dies ist das offizielle xStream Addon-Verzeichnis.[CR]Bei der Bereitstellung einer neuen Version von xStream wird diese auf Funktionalität geprüft. Sollten dennoch Probleme auftreten benachrichtige bitte das offizielle xStream-Team.</description>
+        <description lang="de">Dies ist das offizielle xStream Addon-Verzeichnis.[CR]Bei der Bereitstellung einer neuen Version von xStream wird diese auf FunktionalitÃ¤t geprÃ¼ft. Sollten dennoch Probleme auftreten benachrichtige bitte das offizielle xStream-Team.</description>
         <disclaimer lang="de">Die dargestellten Inhalte des in diesem Verzeichnis enthaltenen Addons werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Content-Anbietern.</disclaimer>
         <platform>all</platform>
     </extension>
@@ -3985,7 +3985,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 		<datadir zip="true">http://raw.github.com/TeamKodiAddonsPT/TeamKodiAddonsPT/master/addons/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Milhano Repositório</summary>
+		<summary>Milhano RepositÃ³rio</summary>
 		<description>Repositorio oficial Tem Milhano</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
